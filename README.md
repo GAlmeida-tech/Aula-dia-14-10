@@ -2,4 +2,4 @@
 Aula Prática de HTML
 
 ## Link de Acesso
-https://GAlmeida-tech/Aula-dia-14-10.git
+https://galmeida-tech.github.io/Aula-dia-14-10
